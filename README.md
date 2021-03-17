@@ -1,3 +1,35 @@
+# ScotKirvan/FreeWPC fork (yeah, I changed the capitalization for the repo's name)
+
+## 2021/03/15 
+This repo hasn't been active for quite a long time.  I'm looking into 
+using it in conjunction with another project I'm developing, so I've started investigating
+what it's going to take to get all these pieces (FreeWPC to create ROMS, VPinMAME to run 
+them, and our Unreal plugin to emplement the virutal tables) up and running together.
+
+For now, I'm just going to try to get the repository modernized a bit, and 
+as I do my research I'll drop notes here.
+
+The links on the site point to oddchnage.com/freewpc, which doesn't 
+appear to exist any longer. There is an
+[archived version](https://web.archive.org/web/20110929084558/http://www.oddchange.com/freewpc/)
+which may be older than the repository code.  The FAQ and other documentation 
+may prove useful.
+
+This looks GREAT! A 2011 [Google Code](https://code.google.com/archive/p/freewpc/wikis/UbuntuGCC6809Install.wiki)
+ archive which describes the process of creating GCC6809
+(a cross-compiler for the Motorolla 6809 chipset) on Ubuntu - specifically for FreeWPC.
+This site looks like a great source of information.
+
+[Flippers.be](https://www.flippers.be/freewpc.html) looks to be another good resource.  It has a 
+step-by-step explanation of how to start with an empty ROM and piece by piece, add functionality.  
+It's also where I learned the history of the repo:  "Around 2010 there was a lot of activity and 
+several people involved. The main programmer (Brian) has stopped all work when he started to work 
+for Heighway Pinball. Since then there are no updates anymore to the master git resource."
+
+
+
+---
+# Original README
 
 This is FreeWPC, an open source operating system for the Williams
 Pinball Controller (WPC) family of pinball machines.  FreeWPC is
