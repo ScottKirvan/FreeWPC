@@ -4,13 +4,13 @@
 This repo hasn't been active for quite a long time.  I'm looking into 
 using it in conjunction with another project I'm developing, so I've started investigating
 what it's going to take to get all these pieces (FreeWPC to create ROMS, VPinMAME to run 
-them, and our Unreal plugin to emplement the virutal tables) up and running together.
+them, and our Unreal plugin to implement the virutal tables) up and running together.
 
-For now, I'm just going to try to get the repository modernized a bit, and 
+For now, I'm just going to try to get the repository updated a bit, and 
 as I do my research I'll drop notes here.
 
 The links on the site point to oddchnage.com/freewpc, which doesn't 
-appear to exist any longer. There is an
+exist any longer. There is an
 [archived version](https://web.archive.org/web/20110929084558/http://www.oddchange.com/freewpc/)
 which may be older than the repository code.  The FAQ and other documentation 
 may prove useful.
