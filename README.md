@@ -1,12 +1,7 @@
 
-# ScottKirvan/freewpc fork
-
----
 This is FreeWPC, an open source operating system for the Williams
 Pinball Controller (WPC) family of pinball machines.  FreeWPC is
 licensed under the GNU General Public License, Version 2.
-
-
 
 The sources for the core routines are located in 'kernel';
 other common code is in 'common', and game-specific code can be found 
