@@ -21,7 +21,7 @@ This looks GREAT! A 2011 [Google Code](https://code.google.com/archive/p/freewpc
 This site looks like a great source of information.
 
 [Flippers.be](https://www.flippers.be/freewpc.html) looks to be another good resource.  It has a 
-step-by-step explanation of how to start with an empty ROM and piece by piece, add functionality.  
+step-by-step explanation of how to start with an empty ROM and piece by piece, add functionality.
 It's also where I learned the history of the repo:  "Around 2010 there was a lot of activity and 
 several people involved. The main programmer (Brian) has stopped all work when he started to work 
 for Heighway Pinball. Since then there are no updates anymore to the master git resource."
