@@ -1,4 +1,4 @@
-# ScotKirvan/FreeWPC fork (yeah, I changed the capitalization for the repo's name)
+# ScotKirvan/FreeWPC fork (yeah, I changed the capitalization of the repo's name)
 
 ## 2021/03/15 
 This repo hasn't been active for quite a long time.  I'm looking into 
