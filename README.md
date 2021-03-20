@@ -18,7 +18,11 @@ may prove useful.
 This looks GREAT! A 2011 [Google Code](https://code.google.com/archive/p/freewpc/wikis/UbuntuGCC6809Install.wiki)
  archive which describes the process of creating GCC6809
 (a cross-compiler for the Motorolla 6809 chipset) on Ubuntu - specifically for FreeWPC.
-This site looks like a great source of information.
+This site looks like a great source of information.  UPDATE 20210319 - I tried this - it was looking so promising,
+but I was building in WSL Ubuntu 18.04.  Everything up to the patch went great and it all looked very promising,
+but building the patched source failed.  I'm guessing it's because of changes in more modern C++ versions.  C++ was,
+at best, at version 10 in 2010 (currently, it's V17), so we may need to roll back to an older ubuntu or 
+find some other way to build with an older c++.  This sounds like a ideal reason for a Docker container - haha!
 
 [Flippers.be](https://www.flippers.be/freewpc.html) looks to be another good resource.  It has a 
 step-by-step explanation of how to start with an empty ROM and piece by piece, add functionality.
