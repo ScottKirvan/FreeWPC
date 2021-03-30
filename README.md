@@ -1,4 +1,4 @@
-# ScotKirvan/FreeWPC fork
+# ScottKirvan/FreeWPC fork
 
 ## 2021/03/15 
 This repo hasn't been active for quite a long time.  I'm looking into 
